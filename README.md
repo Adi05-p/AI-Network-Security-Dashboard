@@ -45,9 +45,10 @@ This project highlights key strengths:
 
 For queries or collaboration:  
 **Adetee Paatil**  
-
+Github link: https://github.com/Adi05-p/AI-Network-Security-Dashboard.git
 Email:adeteep@gmail.com
 
 ---
 
 ### ⭐ If you found this project interesting, don't forget to leave a ⭐ on the repository!
+
